@@ -6,7 +6,7 @@ date: 2017-02-27
 
 # Tethered
 
-### I started immersing myself in VR extensively once I became the director of the Innovation Lab at Ross School last fall. I've tried out many games and experiences on Google Cardboard, Samsung Gear VR, Oculus Rift, and Playstation VR. The experience that amazed me the most was a game called Tethered on Playstation VR. 
+### I started immersing myself in VR extensively once I became the director of the [Innovation Lab at Ross School](http://ross.org/innovationlab) last fall. I've tried out many games and experiences on Google Cardboard, Samsung Gear VR, Oculus Rift, and Playstation VR. The experience that amazed me the most was a game called Tethered on Playstation VR. 
 
 
 [![Tethered PSVR First mins](https://img.youtube.com/vi/4aDAtEBcfG0/0.jpg)](https://www.youtube.com/watch?v=4aDAtEBcfG0-Y "Tethered PSVR First mins")
