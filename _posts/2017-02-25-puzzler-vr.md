@@ -21,7 +21,7 @@ date: 2017-02-25
 
 
 ## Screenshot of Game
-
+![Screenshot 2](http://themadresearcher.com/images/Screenshot_2.png) 
 
 
 ## The process
@@ -29,24 +29,25 @@ date: 2017-02-25
 *Statement of purpose: Puzzler is a mobile VR application that introduces kids to virtual reality in a quick, fun, easy to use way.*
 
 ## Persona
-
+![Persona](http://themadresearcher.com/images/Persona.png) 
  
 
 ## Sketches
 
+
 ### Here are some conceptual sketches that influenced the design of the game.
-
-
+![Sketch 1](http://themadresearcher.com/images/Sketch1.jpg) 
+![Sketch 2](http://themadresearcher.com/images/Sketch2.jpg) 
 
 
 ## Screenshots of Game
-![Screenshot 1](http://themadresearcher.com/images/Screenshot_1.png) 
+
 
 ## Aesthetic and mood
 
 
 ## User Interactions
-
+![Screenshot 1](http://themadresearcher.com/images/Screenshot_1.png) 
 
 
 ## User Testing
