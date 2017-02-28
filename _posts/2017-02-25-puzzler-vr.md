@@ -16,6 +16,8 @@ date: 2017-02-25
 
 
 ## Video of Game
+[![Puzzler VR Demo](https://img.youtube.com/vi/I3_zIaBfEe4/0.jpg)](https://www.youtube.com/watch?v=I3_zIaBfEe4-Y "Puzzler VR Demo")
+### Click the thumbnail above to watch Puzzler gameplay on YouTube!
 
 
 ## Screenshot of Game
