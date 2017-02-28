@@ -44,11 +44,15 @@ date: 2017-02-25
 
 
 ## Aesthetic and mood
+![Screenshot 3](http://themadresearcher.com/images/Screenshot_3.png) 
 
+### The game takes place inside an dungeon and the mood is supposed to be dark and uncomfortable. I used orange lights to convey fire, but in the future I would like to create a fire effect. I would also like to experiment with the lighting and figure out how to make the scene darker.
 
 ## User Interactions
-![Screenshot 1](http://themadresearcher.com/images/Screenshot_1.png) 
+![Screenshot 1](http://themadresearcher.com/images/Screenshot_1.png)
+![Screenshot 4](http://themadresearcher.com/images/Screenshot_4.png) 
 
+### The user interactions are straightforward and easy to understand. Press Start to enter the dungeon and begin the game. After solving the puzzle and exiting the dungeon, the user can press Restart to begin the process again.
 
 ## User Testing
 
