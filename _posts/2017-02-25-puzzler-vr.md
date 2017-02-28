@@ -40,6 +40,7 @@ date: 2017-02-25
 
 
 ## Screenshots of Game
+![Screenshot 1](http://themadresearcher.com/images/Screenshot_1.png) 
 
 ## Aesthetic and mood
 
