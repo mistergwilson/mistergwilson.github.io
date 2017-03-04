@@ -39,9 +39,13 @@ date: 2017-02-25
 ![Sketch 1](http://themadresearcher.com/images/Sketch1.jpg) 
 ![Sketch 2](http://themadresearcher.com/images/Sketch2.jpg) 
 
+## Final version 
 
 ## Screenshots of Game
 
+## Motion
+
+### To prevent any motion sickness since the target of my game is people who are new to VR, I used a simple linear movement for entering in and out of the dungeon. I made sure that all the waypoints were in sight of each other so the player didn't travel through walls. When in the dungeon, the user only uses rotational movement experience the game.
 
 ## Aesthetic and mood
 ![Screenshot 3](http://themadresearcher.com/images/Screenshot_3.png) 
@@ -53,6 +57,12 @@ date: 2017-02-25
 ![Screenshot 4](http://themadresearcher.com/images/Screenshot_4.png) 
 
 ### The user interactions are straightforward and easy to understand. Press Start to enter the dungeon and begin the game. After solving the puzzle and exiting the dungeon, the user can press Restart to begin the process again.
+
+### Gameplay 
+![Screenshot 5](http://themadresearcher.com/images/Screenshot_5.png) 
+
+### Gameplay is simple. After watching the pattern of the orbs, the player can mimick the pattern by using the pointer to hover over the appropriate orb and then press the button on the Cardboard device to select the orb. Audio feedback signifies to the player whether they solved the puzzle or not.
+
 
 ## User Testing
 
