@@ -56,7 +56,7 @@ date: 2017-02-25
 
 ### The user interactions are straightforward and easy to understand. Press Start to enter the dungeon and begin the game. After solving the puzzle and exiting the dungeon, the user can press Restart to begin the process again.
 
-### Gameplay 
+## Gameplay 
 ![Screenshot 5](http://themadresearcher.com/images/Screenshot_5.png) 
 
 ### Gameplay is simple. After watching the pattern of the orbs, the player can mimick the pattern by using the pointer to hover over the appropriate orb and then press the button on the Cardboard device to select the orb. Audio feedback signifies to the player whether they solved the puzzle or not.
