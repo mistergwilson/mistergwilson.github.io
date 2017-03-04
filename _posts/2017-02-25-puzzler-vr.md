@@ -41,8 +41,6 @@ date: 2017-02-25
 
 ## Final version 
 
-## Screenshots of Game
-
 ## Motion
 
 ### To prevent any motion sickness since the target of my game is people who are new to VR, I used a simple linear movement for entering in and out of the dungeon. I made sure that all the waypoints were in sight of each other so the player didn't travel through walls. When in the dungeon, the user only uses rotational movement experience the game.
