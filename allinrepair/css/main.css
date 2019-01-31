@@ -1,15 +1,3 @@
-@media (min-width: 576px) { 
-
- #aboutus {
-	height: 1225px;
-}
-
-#services {
-	height: 650px;
-}
-
-}
-
 #topbar {
 	color: white;
 }
@@ -137,4 +125,20 @@
 	padding-top: 25px;
 	padding-bottom: 25px;
 	background-color: #343a40;
+}
+
+@media (min-width: 768px) { 
+    
+    #services {
+		height: 800px;
+	}
+
+	#aboutus {
+		height: 700px;
+	}
+
+	#main {
+	height: 750px;
+    }
+
 }
