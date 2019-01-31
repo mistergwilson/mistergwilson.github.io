@@ -127,7 +127,7 @@
 	background-color: #343a40;
 }
 
-@media (min-width: 768px) { 
+@media (min-width: 576px) { 
     
     #services {
 		height: 800px;
