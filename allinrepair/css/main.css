@@ -1,3 +1,15 @@
+@media (min-width: 576px) { 
+
+ #aboutus {
+	height: 725px;
+}
+
+#services {
+	height: 650px;
+}
+
+}
+
 #topbar {
 	color: white;
 }
