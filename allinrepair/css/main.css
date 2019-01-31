@@ -1,0 +1,128 @@
+#topbar {
+	color: white;
+}
+
+#main {
+	background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3));
+	height: 650px;
+	position: relative;
+	padding-bottom: 20px;
+	padding-top: 100px;
+	padding-left: 50px;
+	padding-right: 550px;
+}
+
+#video-background {
+/*  making the video fullscreen  */
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0; 
+  bottom: 0;
+  overflow: hidden;
+  width: auto;
+  z-index: -100;
+}
+
+#aboutus {
+	background-color: #3498db;
+	color: white;
+	height: 525px;
+	padding-top: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+#services {
+	background-color: #e74c3c;
+	color: white;
+	height: 550px;
+}
+
+#testimonials {
+	background-position: top;
+	background-image: url(../images/couple.jpg);
+	height: 500px;
+}
+
+
+#contact {
+	background-color: white;
+	height: 650px;
+	padding-top: 50px;
+	padding-right: 150px;
+	padding-left: 50px;
+}
+
+#contactRight {
+	text-align: center;
+	color: white;
+}
+
+#cform {
+	background-color: #2c3e50;
+	border-radius: 3px;
+	padding: 30px;
+}
+
+#main-footer {
+	background-color: #35495F;
+	color: white;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+#main-footer h4 {
+	text-transform: uppercase;
+}
+
+.paymentsbox {
+	width: 100%;
+	min-height: 40px;
+	margin: 0 auto;
+}
+
+.paymentType {
+	max-width: 50px;
+	height: 33px;
+	float: left;
+	padding-right: 1px;
+	padding-left: 1px;
+	margin-right: 4px;
+	margin-bottom: 5px;
+}
+
+.paymentType p {
+	overflow: hidden;
+	text-indent: -1000px;
+}
+
+.paymentType img {
+	width: 50px;
+	border-radius: 3px;
+	box-shadow: 0 1px 5px rgba(0,0,0,.1);
+
+}
+
+#social-icons a {
+	color: #666;
+	text-decoration: none;
+}
+
+.social-icon-nap-font {
+	display: inline-block;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	padding-top: 6px;
+	padding-right: 8px;
+	padding-bottom: 6px;
+	padding-left: 8px;
+	background-color: #d2d2d2;
+	box-shadow: 0 1px 5px rgba(0,0,0,.1);
+}
+
+#footer-bottom {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	background-color: #343a40;
+}
